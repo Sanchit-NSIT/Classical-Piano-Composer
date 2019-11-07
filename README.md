@@ -10,6 +10,7 @@ This project allows you to train a neural network to generate midi music files t
 	* Keras
 	* Tensorflow
 	* h5py
+* NodeJS
 
 ## Training
 
