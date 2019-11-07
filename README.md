@@ -35,4 +35,5 @@ E.g.
 python predict.py
 ```
 
-You can run the prediction file right away using the **weights.hdf5** file
+You can also launch the web app from cmd/terminal by "node app.js" to create a localhost on port 3000
+and run the app via any browser on "http://localhost:3000/"
